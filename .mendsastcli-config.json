@@ -5,7 +5,7 @@
     "exclusions": [],
     "timeouts": {
       "perLanguage": 480,
-      "perFile": 60
+      "perFile": 90
     },
     "maxFileSize": 1024,
     "javaEngineGeneration": 2
