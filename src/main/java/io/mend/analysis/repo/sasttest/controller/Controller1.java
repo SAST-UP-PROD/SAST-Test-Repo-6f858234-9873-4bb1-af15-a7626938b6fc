@@ -18,6 +18,7 @@ public class Controller1 {
     return "Hello world";
   }
 
+  
   @GetMapping("/logInfoUserInput")
   public String logInfoUserInput(
       @RequestParam(value = "userInput", required = true) String userInput) {
